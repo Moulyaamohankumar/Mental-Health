@@ -1,0 +1,65 @@
+.contain{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://i.pinimg.com/originals/09/6d/a0/096da0f9e305e9c33f652d73c1ccab6f.jpg");
+}
+
+/* table{
+    position: absolute;
+    top:0px; 
+    left: 0px;
+    right: 0px;
+    font-style: normal;
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(21, 8, 92);
+    height: 10vh;
+
+} */
+
+#head{
+    background-color:rgba(124, 119, 155, 0.201); 
+    height: auto;
+    border: 0px;
+    margin: 0px;
+    top: 0px;
+    margin-top: 40px;
+    
+}
+
+
+  #and{ 
+    color: white;
+}
+#the{
+    color: white;
+}
+#you{
+    color: white;
+}
+#the1{
+    color: white;
+}
+#cool{
+    color: white;
+}
+
+.navbar{
+    height: 0px;
+    width: 100vw;
+    left: 0px;
+    position:sticky;
+    top: 0px;
+    right: 0px;
+}
+.img{
+    width: 50%;
+    /* position:static;
+    top: 50px;
+    left */
+}
+body{
+    background-image: url("https://i.pinimg.com/originals/09/6d/a0/096da0f9e305e9c33f652d73c1ccab6f.jpg");
+      
+
+}
